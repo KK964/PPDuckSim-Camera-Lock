@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPDuckSim-Camera-Lock", "PPDuckSim-Camera-Lock.csproj", "{1E145494-85FE-4D28-BA39-CCA0037BE703}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E145494-85FE-4D28-BA39-CCA0037BE703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E145494-85FE-4D28-BA39-CCA0037BE703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E145494-85FE-4D28-BA39-CCA0037BE703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E145494-85FE-4D28-BA39-CCA0037BE703}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A535A44F-DA8B-459D-996B-D7749B5E9271}
+	EndGlobalSection
+EndGlobal
